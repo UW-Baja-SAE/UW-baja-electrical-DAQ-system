@@ -53,7 +53,7 @@ Optional but recommended for beginners: install GitHub Desktop from <https://des
 Clone means downloading the repository to your computer.
 
 ```bash
-git clone https://github.com/jsk947/UW-baja-electrical-DAQ-system.git
+git clone https://github.com/UW-Baja-SAE/UW-baja-electrical-DAQ-system
 cd UW-baja-electrical-DAQ-system
 ```
 
