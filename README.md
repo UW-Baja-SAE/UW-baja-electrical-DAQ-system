@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Documents/baja/logo.jpg" width="200">
+</p>
+
 # UW Baja Electrical DAQ System
 
 Development of a modular electrical sensing and data acquisition system for the UW Baja SAE vehicle.
