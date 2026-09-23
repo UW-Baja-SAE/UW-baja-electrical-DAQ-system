@@ -8,7 +8,7 @@ If you are new to Git, do not worry. Follow the steps below, ask questions early
 
 Use this repository for development and documentation related to the UW Baja Electrical DAQ System.
 
-Current and planned structure:
+Future planned structure:
 
 ```text
 docs/       -> Documentation, diagrams, setup notes, meeting notes
@@ -31,7 +31,7 @@ Put your work in the appropriate folder. If you are unsure where something belon
 - Do not commit temporary files, build outputs, personal notes, or large raw data files unless the team agrees they belong here.
 - Write commit messages that explain what changed.
 
-## 3. One-Time Setup
+## 3. First-Time Setup
 
 Install Git:
 
