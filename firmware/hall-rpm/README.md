@@ -15,4 +15,4 @@ Firmware for measuring engine RPM using a Hall-effect sensor.
 3. Measure pulse period
 4. Calculate RPM
 5. Validate RPM measurement
-6. Integrate with CAN
+6. adding independent power source and storage
