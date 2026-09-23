@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Documents/baja/logo.jpg" width="200">
+  <img src="docs/logo.jpg" width="200">
 </p>
 
 # UW Baja Electrical DAQ System
