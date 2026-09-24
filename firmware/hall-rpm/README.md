@@ -1,6 +1,6 @@
 # Engine RPM
 
-Firmware for measuring engine RPM using a Hall-effect sensor.
+Firmware for measuring engine and CVT output RPM using a Hall-effect sensor.
 
 ## Current Status
 
