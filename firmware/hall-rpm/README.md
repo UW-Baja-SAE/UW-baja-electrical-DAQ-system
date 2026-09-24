@@ -1,4 +1,4 @@
-# Hall RPM
+#Engine RPM
 
 Firmware for measuring engine RPM using a Hall-effect sensor.
 
